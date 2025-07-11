@@ -1,0 +1,170 @@
+
+
+.hardy{}
+
+.tafhim{
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 226px;
+}
+.button{
+    padding: 15px 30px;
+    background-color: #FD6E0A;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+.contact{
+    padding: 15px 30px;
+    color: #FD6E0A;
+    border: 2px solid #FD6E0A;
+    font-weight: bolder;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.top-name{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-right: 230px;
+    font-size: 22px;
+}
+.a{
+    color: #472003;
+}
+.ling{
+   text-decoration: none;
+    margin-left: 15px;
+    margin: 15px;
+    
+}
+.photo-greet{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.greet{
+    margin-left: 226px;
+
+}
+.developer{
+    background-image: url("./images/developer.png"), url(images/header_bg.png) ;
+    background-position: top left, bottom right;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+.hi-i-m{
+    color: #472003;
+    font-size: 30px;
+}
+.tmahmud{
+    font-weight: bolder;
+    font-size: 60px;
+}
+.about{
+    max-width: 1140;
+    text-align: center;
+    border: 0 solid ;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px #FD6E0A;
+    margin: 0 235px ;
+    padding: 110px 152px;
+    background-color: #FFF8F3;
+}
+.about-me{
+    font-size: 30px;
+
+}
+.about-pera{
+    font-size: 15px;
+    color: #472003;
+    font-weight: bold;
+}
+.about-detail{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+.level1{
+    color: #472003;
+    font-weight: 10px;
+}
+.level2{
+    font-size: 15px;
+    color: rgb(21, 82, 100);
+    font-weight: bolder;
+}
+.what-i-do{
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 130px;
+}
+.what-i-do-pera{
+    margin: 0 350px;
+    text-align: center;
+    color: #472003;
+}
+.skill{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 200px;
+}
+.skill-div{
+    border: 0px solid #FD6E0A;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 1px 1px 20px #d1b8a644;
+    
+    text-align: justify;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+}
+p {
+    color: #856666;
+}
+.summary-of-my{
+    text-align: center;
+    margin-top: 130px;
+}
+.edu-exp{
+    display: flex;
+    /*justify-content: space-between;*/
+    justify-content: space-between;
+    margin: 0 100px;
+}
+.exphd{
+    color: #763f3f;
+}
+.edu-titlt{
+    margin-left: 100px;
+}
+.h3d{
+
+    color: #856666;
+}
+.Master{
+    border-bottom: 3px solid #8566666e;
+    margin-right: 20px;
+    padding: 5px;
+}
+.practice{
+    border-bottom: 3px solid #85666666;
+    margin-left: 20px;
+    padding: 5px;
+}
+.Master-practice{
+    display: flex;
+    margin: 50px;
+}
+.carrear-detail{
+    padding-right: 60px;
+}
+.last-btm{
+    padding: 20px;
+    text-align: center;
+}
